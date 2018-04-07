@@ -1,10 +1,10 @@
-This is a repo for Unity WebGL templates. I made this for myself to make it easier to just add this to my projects as a git submodule for easy editing. Also, Unity requires WebGL templates to be in the assets/WebGLTemplates folder or it won't pick them up (Unity doesn't do a deep search for WebGLTemplates folders...).
+This is a repo for Unity WebGL templates. I made this for myself to make it easier to just add this to my projects as a git submodule for easy editing. Also, Unity requires WebGL templates to be in the Assets/WebGLTemplates folder or it won't pick them up (Unity doesn't do a deep search for WebGLTemplates folders...).
 
 ## How to install
-Add this repo as a git submodule in the assets/ folder of your Unity project.
+Add this repo as a git submodule in the Assets/ folder of your Unity project.
 
 ```
-cd UnityGameProjectFolder/assets
+cd UnityGameProjectFolder/Assets
 git submodule add https://github.com/Mykaelos/WebGLTemplates.git
 ```
 
